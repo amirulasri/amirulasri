@@ -1,8 +1,6 @@
 # AMIRUL ASRI
 
-- 👋 Hi, I’m @amirulasri
-- 👀 I’m interested in making basic application
-- 🌱 I’m currently learning PHP, HTML, CSS, JS, MySQL
+- 👋 Hi, Amirul Asri here!
 
 <!---
 amirulasri/amirulasri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
